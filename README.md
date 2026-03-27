@@ -1,6 +1,7 @@
 # Claude Code Handbook 中文版
 
 freeCodeCamp《The Claude Code Handbook》完整中文翻译
+地址：https://github.com/harven-droid/claude-code-handbook-cn/blob/main/Claude-Code-Handbook-中文完整版.md
 
 ## 📖 关于
 
