@@ -1,8 +1,14 @@
 # Claude Code 手册：AI辅助开发的专业入门指南
 
-> 原文：freeCodeCamp《The Claude Code Handbook》
-> 发布日期：2026年3月25日
-> 原文链接：https://www.freecodecamp.org/news/claude-code-handbook/
+> **原文**：freeCodeCamp《The Claude Code Handbook》
+> **发布日期**：2026年3月25日
+> **原文链接**：https://www.freecodecamp.org/news/claude-code-handbook/
+> 
+> **译者**：大瑜
+> **公众号**：大瑜聊AI
+> **个人微信**：helloaigc2023
+> 
+> 欢迎各位链接交流 🤝
 
 ---
 
