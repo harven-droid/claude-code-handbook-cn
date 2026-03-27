@@ -5,6 +5,7 @@ freeCodeCamp《The Claude Code Handbook》完整中文翻译
 ## 📖 关于
 
 这是 freeCodeCamp 于 2026年3月25日发布的《The Claude Code Handbook: A Professional Introduction to Building with AI-Assisted Development》的完整中文翻译版本。
+大瑜中文翻译，公众号：大瑜聊AI，个人微信：helloaigc2023
 
 **原文链接**: https://www.freecodecamp.org/news/claude-code-handbook/
 
